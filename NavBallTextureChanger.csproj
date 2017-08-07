@@ -31,11 +31,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lazy.cs" />
-    <Compile Include="Maybe.cs" />
-    <Compile Include="NavBallChanger.cs" />
-    <Compile Include="NavBallTexture.cs" />
-    <Compile Include="Texture2DExtensions.cs" />
+    <Compile Include="Source\Lazy.cs" />
+    <Compile Include="Source\Maybe.cs" />
+    <Compile Include="Source\NavBallChanger.cs" />
+    <Compile Include="Source\NavBallTexture.cs" />
+    <Compile Include="Source\Texture2DExtensions.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
