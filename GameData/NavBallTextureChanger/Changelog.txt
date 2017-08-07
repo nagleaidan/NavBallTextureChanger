@@ -1,0 +1,19 @@
+Changelog:
+
+1.6 - Updated for 1.3
+
+1.5 - Updated for 1.2
+
+1.4 - Updated for 1.1.2
+
+1.3 - Fixed a rare bug somebody had once; removed some debug code that caused unnecessary log spam each time the plugin loaded
+
+1.2 - Fixed an issue that caused only a single instance of the flight and iva NavBall to be changed
+
+1.1.a - Fixed working directory issue when KSP is launched by an external program. Folder can now be renamed and/or moved anywhere, as long as it's under KSP's GameData dir
+
+1.1 - Fixed issue preventing NavBall texture from being changed if the vessel doesn't have an iva view
+
+1.0.a - Now includes iva
+
+1.0 - Released
